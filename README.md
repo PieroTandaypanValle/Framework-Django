@@ -6,7 +6,7 @@
 
 -descargar python : https://www.python.org/ftp/python/3.11.1/python-3.11.1-amd64.exe
 
-#Instalacion
+#Instalacion Terminal
 
 git clone https://github.com/PieroTandaypanValle/Framework-Django.git
 
