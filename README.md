@@ -15,3 +15,7 @@ cd Portafolio1
 pip install -r requisitos.txt
 
 python manage.py runserver
+
+#Visitar
+
+-http://localhost:8000
