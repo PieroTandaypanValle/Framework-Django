@@ -2,7 +2,10 @@
 
 {% block content %}
 
-<h1>home</h1>
+{% load static %}
+
+<img src="{% static 'portfolio/profile.jpeg' %}" alt="">
+
 
 {% for project in projects %}
 
